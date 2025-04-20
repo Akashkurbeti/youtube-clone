@@ -1,0 +1,51 @@
+ p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.title{
+font-size: 25px;
+font-weight: bold;
+width: 400px;
+line-height:35px ;
+margin-bottom: 5px;
+}
+.views{
+font-family: Arial;
+font-size: 13px;
+color: rgb(94, 94, 94);
+
+margin-bottom: 20px;
+}
+.mb{
+color: rgb(94, 94, 94);
+font-size :14px;
+margin-bottom: 20px;
+}
+.descript{
+
+width: 380px;
+font-size: 14px;
+color: rgb(94, 94, 94);
+line-height: 20px;
+margin-bottom:100px ;
+}
+.appleText{
+margin-bottom: 50px;
+font-size:14px ;
+background: rgb(227,65,64);
+color :white;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+.span{
+cursor: pointer;
+margin-left :  12px;
+ 
+}
+.span:hover{
+
+text-decoration:underline
+}
